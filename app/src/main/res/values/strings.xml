@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">20110118_이승원</string>
+    <string name="login">로그인</string>
+    <string name="tv1">아직 회원이 아니신가요?</string>
+    <string name="tv2">회원가입 하기</string>
+    <string name="tv_register">회원가입</string>
+    <string name="bt_register">가입하기</string>
+</resources>
